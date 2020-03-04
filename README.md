@@ -186,11 +186,6 @@ table(data$cat_Happiness.Score,
 data$cat_Log.GDP.per.capita)
 ```
 
-
-```{r}
-#Probabilties Q3. - ALEX
-```
-
 ```{r}
 #Chi-Square Test
 
@@ -217,10 +212,6 @@ chisq.test(data$cat_Happiness.Score,
 # and accept the alternative hypothesis (there is a difference between the two groups)!
 
 ```
-```{r}
-#Q4. to be typed here - Alex
-```
-
 ```{r}
 #As our target variable is continuous (numeric target) therefore we will use linear regression for building the model.
 ```
