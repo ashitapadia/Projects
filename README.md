@@ -3,13 +3,6 @@
 #Statistics Project
 #World Happiness Rank Prediction
 
----
-title: "Project"
-author: "Team : Movies 2"
-date: "November 21, 2019"
----
-
-
 ```{r}
 #uploading the data
 data <- read.csv("data.csv")
