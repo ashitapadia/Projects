@@ -7,7 +7,6 @@
 title: "Project"
 author: "Team : Movies 2"
 date: "November 21, 2019"
-output: html_document
 ---
 
 
